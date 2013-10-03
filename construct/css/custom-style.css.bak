@@ -1,0 +1,26 @@
+/*
+==  CUSTOM STYLESHEET  ========================================================
+
+HOW TO USE THIS FILE:
+	Simply copy an existing style from the style.css file to this one and 
+	modify however you like. It will override the default style.
+
+WHY USE THIS FILE:
+	Adding your custom CSS here will make it much easier to upgrade to a 
+	newer version of this theme without losing any of your customizations.
+
+===============================================================================
+ADD YOUR CUSTOM CSS BELOW THIS LINE */
+body {
+    font: 75%/1.5 sans-serif;
+    color: rgb(51, 51, 51);
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, table, caption, tbody, tfoot, thead, tr, th, td, hr {
+    margin: 0px;
+    padding: 0px;
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+}
